@@ -30,4 +30,17 @@ Welcome to SolarView, a captivating and visually stunning representation of our 
 - CSS3 for styling the planets, orbits, and other visual elements. 🎨
 - JavaScript for implementing interactive features, orbital calculations, and animations. 🚀🌟
 
+---
 
+## 🧑‍💻 Author
+
+- **Rohit Kumar Saw**  
+- 📧 [rohitku6207@gmail.com](mailto:rohitku6207@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-saw6207/)  
+- 💻 [GitHub](https://github.com/Rohitsaw6207)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider starring ⭐ the repository to support and inspire more work!
